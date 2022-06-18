@@ -19,6 +19,9 @@ Optimize +
 
 HOW TO INSTALL:
 
+standart width=90
+standart height=50
+
 LINUX only support nawk:
     You need:
         NAWK
@@ -26,7 +29,6 @@ LINUX only support nawk:
         nawk -f ray3d.awk
 
 file size 18 kb
-
 ----------------------------------------------------
 
 game engine is not my, i just upgrade:
